@@ -4,8 +4,8 @@ import mysql.connector
 from io import BytesIO
 from datetime import datetime, date
 
-st.set_page_config(page_title="Filtro Contable", layout="wide")
-st.title("Andy Web App Multiempresa")
+st.set_page_config(page_title="Glam Mayores", layout="wide")
+st.title("Web App Multiempresa")
 
 # Configurar conexión MySQL (puerto 3306)
 try:
